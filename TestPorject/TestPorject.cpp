@@ -6,5 +6,7 @@ int main()
 {
     setlocale(LC_CTYPE, "RUS");
     cout << "Привет мир\n";
+
+    printf("new code");
 }
 
